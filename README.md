@@ -30,6 +30,3 @@
 
 ![](README.assets/商城首页.jpg)
 
-单个商品
-
-![](README.assets/单个商品.jpg)
